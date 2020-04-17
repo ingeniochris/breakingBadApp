@@ -29,7 +29,7 @@ function App() {
 
   const [frase, guardarFrase]= useState({})
   const consultarApi= async () =>{
-    const resultado = await fetch('http://breaking-bad-quotes.herokuapp.com/v1/quotes');
+    const resultado = await fetch('//breaking-bad-quotes.herokuapp.com/v1/quotes');
     const frase = await resultado.json();
     guardarFrase(frase[0]);
   }
