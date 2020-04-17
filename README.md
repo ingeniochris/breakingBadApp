@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Projecto corriendo en Netlify:
 
-### [Breaking Bad App](https://frasesbreakingbad.netlify.app)
+### [Breaking Bad App](https://frases.netlify.app/)
 
